@@ -45,5 +45,18 @@ SOFTWARE.
                 </lifecycles>
             </configuration>
         </component>
+        <component>
+            <role>org.apache.maven.artifact.handler.ArtifactHandler</role>
+            <role-hint>tabularasa</role-hint>
+            <implementation>org.apache.maven.artifact.handler.DefaultArtifactHandler</implementation>
+            <configuration>
+                <type>tabularasa</type>
+                <includesDependencies>false</includesDependencies>
+                <language>java</language>
+                <extension>jar</extension>
+                <addedToClasspath>true</addedToClasspath>
+                <packaging>tabularasa</packaging>
+            </configuration>
+        </component>
     </components>
 </component-set>
