@@ -13,7 +13,7 @@ Useful for the projects where precise control over bindings is required.
     <plugins>
         <plugin>
             <groupId>com.github.skapral</groupId>
-            <artifactId>maven-dirtybuild-plugin</artifactId>
+            <artifactId>maven-tabularasa-plugin</artifactId>
             <version>0.0.0-SNAPSHOT</version>
             <extensions>true</extensions>
         </plugin>
