@@ -1,5 +1,7 @@
 # maven-tabularasa-plugin
 
+[![Build Status](https://img.shields.io/travis/skapral/maven-tabularasa-plugin/master.svg)](https://travis-ci.org/skapral/maven-tabularasa-plugin)
+
 Maven plugin, which introduces new packaging, `tabularasa`, with totally empty lifecycle bindings. 
 Useful for the projects where precise control over bindings is required.
 
@@ -24,4 +26,4 @@ Useful for the projects where precise control over bindings is required.
 <packaging>tabularasa</packaging>
 ```
 
-3. Start managing your lifecycle bindings   .
+3. Start managing your lifecycle bindings.
