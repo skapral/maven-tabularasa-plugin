@@ -31,7 +31,9 @@ SOFTWARE.
     <artifactId>maven-tabularasa-plugin</artifactId>
     <version>0.0.0-SNAPSHOT</version>
     <packaging>maven-plugin</packaging>
-
+    <name>Maven Tabularasa Plugin</name>
+    <description>Maven plugin with virgin lifecycle</description>
+    <url>https://github.com/skapral/maven-tabularasa-plugin</url>
 
     <licenses>
         <license>
@@ -39,6 +41,10 @@ SOFTWARE.
             <url>http://www.opensource.org/licenses/mit-license.php</url>
         </license>
     </licenses>
+
+    <scm>
+        <url>https://github.com/skapral/maven-tabularasa-plugin.git</url>
+    </scm>
 
     <developers>
         <developer>
