@@ -29,7 +29,7 @@ SOFTWARE.
 
     <groupId>com.github.skapral</groupId>
     <artifactId>maven-tabularasa-plugin</artifactId>
-    <version>0.0.0-SNAPSHOT</version>
+    <version>0.0.0</version>
     <packaging>maven-plugin</packaging>
     <name>Maven Tabularasa Plugin</name>
     <description>Maven plugin with virgin lifecycle</description>

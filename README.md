@@ -14,7 +14,7 @@ Useful for the projects where precise control over bindings is required.
         <plugin>
             <groupId>com.github.skapral</groupId>
             <artifactId>maven-tabularasa-plugin</artifactId>
-            <version>0.0.0-SNAPSHOT</version>
+            <version>0.0.0</version>
             <extensions>true</extensions>
         </plugin>
     </plugins>
